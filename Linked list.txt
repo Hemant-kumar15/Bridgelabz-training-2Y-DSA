@@ -165,6 +165,5 @@ solve(0);
 
 ---
 
-## END
 
-Reference Questions: 
+
